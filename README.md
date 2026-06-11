@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Akash 👋
 
-<!--
-**akashbuilds24/akashbuilds24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Learning Python, DSA and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently focused on improving coding skills
+
+🚀 Aspiring Software Developer
+
+## Skills
+- C
+- Python (Learning)
+- Git & GitHub
+
+## Current Goals
+- Learn DSA
+- Solve LeetCode Problems
+- Build Projects
+- Get an Internship
